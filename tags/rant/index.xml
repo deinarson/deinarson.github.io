@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rant on </title>
+    <link>/tags/rant/</link>
+    <description>Recent content in Rant on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 20 Jun 2018 14:23:29 -0400</lastBuildDate>
+    
+	<atom:link href="/tags/rant/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Dogma: not my preferred cook</title>
+      <link>/rant/dogma/</link>
+      <pubDate>Wed, 20 Jun 2018 14:23:29 -0400</pubDate>
+      
+      <guid>/rant/dogma/</guid>
+      <description>just complaining, and probably not making much sense. The internet has never been wrong because developers don&#39;t make mistakes and Torval has always been polite when dealing with people he doesn&#39;t agree with.  Right?
+ &amp;ldquo;idempotent&amp;rdquo; pet peeve, if you write good config code it is idempotent by definition, when Adam Jacob started using this term it was like saying all the previous configuration management tools didn&amp;rsquo;t have this feature.</description>
+    </item>
+    
+  </channel>
+</rss>
