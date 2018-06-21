@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tools on </title>
+    <link>http://deinarson.github.io/tags/tools/</link>
+    <description>Recent content in Tools on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 21 Jun 2018 13:41:30 -0400</lastBuildDate>
+    
+	<atom:link href="http://deinarson.github.io/tags/tools/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Told Sold or Trolled?</title>
+      <link>http://deinarson.github.io/post/told_sold_or_trolled/</link>
+      <pubDate>Thu, 21 Jun 2018 13:41:30 -0400</pubDate>
+      
+      <guid>http://deinarson.github.io/post/told_sold_or_trolled/</guid>
+      <description>Thoughts on Semi-Automated Threat Detection or Hunting These are merely musings, and by no means an exhaustive list, nor is it intended to be of the quality of a professional publication; lacking references and use of pronouns. However, I wish to bring to light some issues.
+Sold, told and trolled are three things we should realize. We may have discouraged the use of important tools due to dogma, or marketing hype.</description>
+    </item>
+    
+  </channel>
+</rss>
