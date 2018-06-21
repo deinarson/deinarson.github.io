@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Musing on </title>
-    <link>http://deinarson.github.io/tags/musing/</link>
+    <link>/tags/musing/</link>
     <description>Recent content in Musing on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 21 Jun 2018 14:54:47 -0400</lastBuildDate>
+    <lastBuildDate>Wed, 20 Jun 2018 14:54:47 -0400</lastBuildDate>
     
-	<atom:link href="http://deinarson.github.io/tags/musing/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/musing/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Turn-key Tyranny</title>
-      <link>http://deinarson.github.io/post/turn_key_tyranny/</link>
-      <pubDate>Thu, 21 Jun 2018 14:54:47 -0400</pubDate>
+      <link>/post/turn_key_tyranny/</link>
+      <pubDate>Wed, 20 Jun 2018 14:54:47 -0400</pubDate>
       
-      <guid>http://deinarson.github.io/post/turn_key_tyranny/</guid>
+      <guid>/post/turn_key_tyranny/</guid>
       <description>Thinking aloud  To all who read this; In the following, if you feel that I am judging the work that you have done, or trying to suggest complicity, this is not the case. I am specifically writing about the potential future misuse of a system. With all our knowable efforts we can only do the best we can, but we only have one life, and once we are gone we can no longer insure every one of our good intentions will be followed by our successors.</description>
     </item>
     

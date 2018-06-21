@@ -2,41 +2,41 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on </title>
-    <link>http://deinarson.github.io/post/</link>
+    <link>/post/</link>
     <description>Recent content in Posts on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 21 Jun 2018 14:54:47 -0400</lastBuildDate>
+    <lastBuildDate>Thu, 21 Jun 2018 13:41:30 -0400</lastBuildDate>
     
-	<atom:link href="http://deinarson.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Turn-key Tyranny</title>
-      <link>http://deinarson.github.io/post/turn_key_tyranny/</link>
-      <pubDate>Thu, 21 Jun 2018 14:54:47 -0400</pubDate>
-      
-      <guid>http://deinarson.github.io/post/turn_key_tyranny/</guid>
-      <description>Thinking aloud  To all who read this; In the following, if you feel that I am judging the work that you have done, or trying to suggest complicity, this is not the case. I am specifically writing about the potential future misuse of a system. With all our knowable efforts we can only do the best we can, but we only have one life, and once we are gone we can no longer insure every one of our good intentions will be followed by our successors.</description>
-    </item>
     
     <item>
       <title>Told Sold or Trolled?</title>
-      <link>http://deinarson.github.io/post/told_sold_or_trolled/</link>
+      <link>/post/told_sold_or_trolled/</link>
       <pubDate>Thu, 21 Jun 2018 13:41:30 -0400</pubDate>
       
-      <guid>http://deinarson.github.io/post/told_sold_or_trolled/</guid>
+      <guid>/post/told_sold_or_trolled/</guid>
       <description>Thoughts on Semi-Automated Threat Detection or Hunting These are merely musings, and by no means an exhaustive list, nor is it intended to be of the quality of a professional publication; lacking references and use of pronouns. However, I wish to bring to light some issues.
 Sold, told and trolled are three things we should realize. We may have discouraged the use of important tools due to dogma, or marketing hype.</description>
     </item>
     
     <item>
       <title>Barlow&#39;s Principles of Adult Behaviour</title>
-      <link>http://deinarson.github.io/post/james_barlow/</link>
+      <link>/post/james_barlow/</link>
       <pubDate>Wed, 20 Jun 2018 15:20:41 -0400</pubDate>
       
-      <guid>http://deinarson.github.io/post/james_barlow/</guid>
+      <guid>/post/james_barlow/</guid>
       <description>Barlow&amp;rsquo;s Principles of Adult Behaviour  Be patient. No matter what. Don’t badmouth: Assign responsibility, not blame. Say nothing of another you wouldn’t say to him. Never assume the motives of others are, to them, less noble than yours are to you. Expand your sense of the possible. Don’t trouble yourself with matters you truly cannot change. Expect no more of anyone than you can deliver yourself. Tolerate ambiguity. Laugh at yourself frequently.</description>
+    </item>
+    
+    <item>
+      <title>Turn-key Tyranny</title>
+      <link>/post/turn_key_tyranny/</link>
+      <pubDate>Wed, 20 Jun 2018 14:54:47 -0400</pubDate>
+      
+      <guid>/post/turn_key_tyranny/</guid>
+      <description>Thinking aloud  To all who read this; In the following, if you feel that I am judging the work that you have done, or trying to suggest complicity, this is not the case. I am specifically writing about the potential future misuse of a system. With all our knowable efforts we can only do the best we can, but we only have one life, and once we are gone we can no longer insure every one of our good intentions will be followed by our successors.</description>
     </item>
     
   </channel>

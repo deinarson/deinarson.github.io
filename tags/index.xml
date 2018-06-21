@@ -2,66 +2,75 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on </title>
-    <link>http://deinarson.github.io/tags/</link>
+    <link>/tags/</link>
     <description>Recent content in Tags on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 21 Jun 2018 13:41:30 -0400</lastBuildDate>
     
-	<atom:link href="http://deinarson.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Automation</title>
-      <link>http://deinarson.github.io/tags/automation/</link>
+      <link>/tags/automation/</link>
       <pubDate>Thu, 21 Jun 2018 13:41:30 -0400</pubDate>
       
-      <guid>http://deinarson.github.io/tags/automation/</guid>
+      <guid>/tags/automation/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Musing</title>
-      <link>http://deinarson.github.io/tags/musing/</link>
-      <pubDate>Thu, 21 Jun 2018 14:54:47 -0400</pubDate>
+      <link>/tags/musing/</link>
+      <pubDate>Wed, 20 Jun 2018 14:54:47 -0400</pubDate>
       
-      <guid>http://deinarson.github.io/tags/musing/</guid>
+      <guid>/tags/musing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rant</title>
+      <link>/tags/rant/</link>
+      <pubDate>Wed, 20 Jun 2018 14:23:29 -0400</pubDate>
+      
+      <guid>/tags/rant/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Thoughts</title>
-      <link>http://deinarson.github.io/tags/thoughts/</link>
+      <link>/tags/thoughts/</link>
       <pubDate>Thu, 21 Jun 2018 13:41:30 -0400</pubDate>
       
-      <guid>http://deinarson.github.io/tags/thoughts/</guid>
+      <guid>/tags/thoughts/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Threat Detection</title>
-      <link>http://deinarson.github.io/tags/threat-detection/</link>
+      <link>/tags/threat-detection/</link>
       <pubDate>Thu, 21 Jun 2018 13:41:30 -0400</pubDate>
       
-      <guid>http://deinarson.github.io/tags/threat-detection/</guid>
+      <guid>/tags/threat-detection/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Threat Hunting</title>
-      <link>http://deinarson.github.io/tags/threat-hunting/</link>
+      <link>/tags/threat-hunting/</link>
       <pubDate>Thu, 21 Jun 2018 13:41:30 -0400</pubDate>
       
-      <guid>http://deinarson.github.io/tags/threat-hunting/</guid>
+      <guid>/tags/threat-hunting/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Tools</title>
-      <link>http://deinarson.github.io/tags/tools/</link>
+      <link>/tags/tools/</link>
       <pubDate>Thu, 21 Jun 2018 13:41:30 -0400</pubDate>
       
-      <guid>http://deinarson.github.io/tags/tools/</guid>
+      <guid>/tags/tools/</guid>
       <description></description>
     </item>
     
