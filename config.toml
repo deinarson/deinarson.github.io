@@ -1,4 +1,4 @@
-baseURL = "http://deinarson.github.io/"
+baseURL = "https://deinarson.github.io/"
 languageCode = "en-us"
 title = ""
 theme = "hugo-lamp"
