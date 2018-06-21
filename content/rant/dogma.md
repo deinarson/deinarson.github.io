@@ -18,9 +18,6 @@ Right?
 
 <hr>
 
-
-
-
 ## "idempotent"
 
 pet peeve, if you write good config code it is idempotent by definition, 
@@ -32,7 +29,6 @@ pet peeve, if you write good config code it is idempotent by definition,
     # we can use sed if you want it simple
 
 It is not the tool it is how you use it!  Yes this code can be better, and other languages can be more elegant, but that was never the argument.  Plain old-fashioned ignorance was what was winning the arguments for some reason.
-
 
 
 ## fallacy or just plain wrong 
