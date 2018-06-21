@@ -1,0 +1,58 @@
+baseURL = "http://localhost:1313/"
+languageCode = "en-us"
+title = ""
+theme = "hugo-lamp"
+#googleAnalytics = "UA-XXX-X"          # Google Analytics UA number
+
+[params]
+  subtitle = ""
+  author = "Dale Einarson"
+  logo = "/img/avatar.jpg"
+  description = "A place I dont spend any time at"
+  paginate = 10
+
+  # Publisher
+  ## adsensePublisher = "ca-pub-XXX"    # Required if you want to include Google Adsense
+#  adsenseSlot = "XXX"                   # Required slot to display ads
+#  adsenseSlotSticky = "XXX"             # Enables sticky ads feature, value maybe the same with adsenseSlot, remove if you don't want display sticky ads
+
+  # SEO configs
+  seotitle = "drawings in the sand"
+# googleSiteVerification = "google_site_verification_code"    # Google Webmaster
+#  msValidate = "bing_site_verification_code"                  # Bing Webmaster
+
+  # Social networks
+#  email = "name@domain.com"
+  github = "deinarson"
+#  twitter = "twitter_username"
+#  linkedin = "linkedin_username"
+#  facebook = "facebook_username"
+#  google = "googleplus_id_number"
+#  instagram = "instagram_username"
+#  youtube = "youtube_username"
+#  dribbble = "dribbble_username"
+
+[taxonomies]
+  tag = "tags"
+  category = "categories"
+
+[[menu.main]]
+  name = "home"
+  weight = 1
+  identifier = "/"
+  url = "/"
+[[menu.main]]
+  name = "Thoughts"
+  weight = 2
+  identifier = "post"
+  url = "/post/"
+[[menu.main]]
+  name = "rants"
+  weight = 3
+  identifier = "rants"
+  url = "/rant/"
+[[menu.main]]
+  name = "Tags"
+  weight = 4
+  identifier = "tags"
+  url = "/tags/"
