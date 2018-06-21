@@ -8,7 +8,7 @@ tags: ["rant"]
 ---
 
 
-# just complaining, and probably not making much sense.
+# Just complaining, and probably not making much sense.
 
     The internet has never been wrong
     because developers don't make mistakes
