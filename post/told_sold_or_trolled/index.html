@@ -155,9 +155,10 @@ Sold, told and trolled are three things we should realize. We may have discourag
 <h2 id="configuration-management">Configuration Management</h2>
 
 <blockquote>
-<p>there is no security without audit!
-At L.I.S.A. 1995 when Mark Burgess presented CFEngine there were some that realized this would make their lives easy and some who thought it was too complicated.  The initial focus of CFEngine was to automate the maintenance of a homogenous installation with several nuanced OS&rsquo;s and system installations.</p>
+<p>there is no security without audit!</p>
 </blockquote>
+
+<p>At L.I.S.A. 1995 when Mark Burgess presented CFEngine there were some that realized this would make their lives easy and some who thought it was too complicated.  The initial focus of CFEngine was to automate the maintenance of a homogenous installation with several nuanced OS&rsquo;s and system installations.</p>
 
 <p>We were a microscopic subset of the industry but many of us realized configuration management could reduce required man-hours to maintain systems in a more defined way. This became an obvious choice for locations requiring audit or at high-risk sites that needed misconfigured systems to be automatically updated.</p>
 
@@ -168,7 +169,7 @@ At L.I.S.A. 1995 when Mark Burgess presented CFEngine there were some that reali
 <p>Short sited and limited scope has bitten too many organisations. We all jumped the gun and now the norm seems to be a bit worse than 2013.  Now we have tons more open ports due to the micro-service methodology. Sure we can react to our mistakes faster if we do DevOps/Agile correctly but how many sites practice &ldquo;secure by design&rdquo; or a &ldquo;zero trust&rdquo; network?
   I know that even when working at a unicorn security startup I was laughed at when I requested we install some form of network monitor. ( This was before Sony&rsquo;s 14TB data lost/breach that might have been detected if they had done just that. )</p>
 
-<p><strong>Baby and the bath water</strong>: it is simple to find places that dont use configuration management. Look for a place that uses kubernetes.  In most places I have seen, the coreos match-box (aka bootcfg ) is the only form of configuration management used. No means to audit and no monitoring of network traffic etc. That is, we now have a far greater threat landscape than with the monolithic apps and no additional security controls.</p>
+<p><strong>Baby and the bath water</strong>: it is simple to find places that dont use configuration management. Look for a place that uses kubernetes.  In most places I have seen, the coreos match-box (aka bootcfg) is the only form of configuration management used. No means to audit and no monitoring of network traffic etc. That is, we now have a far greater threat landscape than with the monolithic apps and no additional security controls.</p>
 
 <h2 id="canaries">Canaries?</h2>
 
