@@ -22,7 +22,7 @@ publishDir = "docs"
 #  msValidate = "bing_site_verification_code"                  # Bing Webmaster
 
   # Social networks
-#  email = "name@domain.com"
+  email = "github+deinarson@machproductions.com"
   github = "deinarson"
 #  twitter = "twitter_username"
 #  linkedin = "linkedin_username"

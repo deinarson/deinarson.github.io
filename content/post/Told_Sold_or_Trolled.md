@@ -57,7 +57,7 @@ Similarly there are several types of publicly available threat lists, rootkit an
 
 **Baby and the bath water**?  depending on the available resources you have to curate these, they for the most part can be more noise than signal. But there are some that provide more signal than others.
 
-Projects such as [alware-traffic-analysis.net](htps://www.malware-traffic-analysis.net) essentially give us actionable data, requiring a fixed amount of time to implement, but requiring a specific type of environment to benefit from it.  The "bang for the buck" is really a question of your scale and how much of a target you are.
+Projects such as [alware-traffic-analysis.net](https://www.malware-traffic-analysis.net) essentially give us actionable data, requiring a fixed amount of time to implement, but requiring a specific type of environment to benefit from it.  The "bang for the buck" is really a question of your scale and how much of a target you are.
 
 ## Defending against drive-by and phishing type attacks 
  These attacks are merely wishful thinking, often automated by an attacker hoping that someone will fall for it or that your network has un-patched holes.
